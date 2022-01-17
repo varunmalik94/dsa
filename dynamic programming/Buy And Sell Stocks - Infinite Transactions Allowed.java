@@ -38,6 +38,7 @@ import java.util.*;
 
 /*
  * @todo use Math.max() instead of if
+ * @todo do using Greedy Technique
  */ 
 
 public class Main {
